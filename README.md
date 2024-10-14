@@ -6,10 +6,10 @@
 - 생성모델 관련 프로그래밍 과제(course assignments) or 프로젝트(코드리뷰/논문리뷰) 진행
 
 ## 팀 멤버
-|  | | | |
-|---|------|-------|---------|
-|   <img src = "https://media.licdn.com/dms/image/v2/C5603AQHyqyMWYdPxSg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1590165964786?e=1730937600&v=beta&t=XN0ZpXekOHzw47T2DrOesIAYdF1eL-rzM8oqaoX8b20" width="128px;"/> <br/> [박진호](https://www.linkedin.com/in/jinho-park-9010) (빌더) <br/> 현대자동차 <br/> 3기~ <br/> - <br/> |  <img src = "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/kQMuuagu-nSEu5MvmcSPrOI0nAk" width="128px;"/> <br/> [???](https://www.linkedin.com/in/jinho-park-9010) (러너) <br/> ??? <br/> 9기~ <br/> ????? <br/>  - <br/> |   <img src = "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/kQMuuagu-nSEu5MvmcSPrOI0nAk" width="128px;"/> <br/> [???](https://www.linkedin.com/in/jinho-park-9010) (러너) <br/> ??? <br/> 9기~ <br/> ????? <br/> - <br/> |   <img src = "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/kQMuuagu-nSEu5MvmcSPrOI0nAk" width="128px;"/> <br/> [???](https://www.linkedin.com/in/jinho-park-9010) (러너) <br/> ??? <br/> 9기~ <br/> ????? <br/> - <br/> |
-|   <img src = "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/kQMuuagu-nSEu5MvmcSPrOI0nAk" width="128px;"/> <br/> [???](https://www.linkedin.com/in/jinho-park-9010) (러너) <br/> ???<br/> 9기~ <br/> ????? <br/> - <br/> |  <img src = "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/kQMuuagu-nSEu5MvmcSPrOI0nAk" width="128px;"/> <br/> [???](https://www.linkedin.com/in/jinho-park-9010) (러너) <br/> ??? <br/> 9기~ <br/> ????? <br/> - <br/>|   <img src = "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/kQMuuagu-nSEu5MvmcSPrOI0nAk" width="128px;"/> <br/> [???](https://www.linkedin.com/in/jinho-park-9010) (러너) <br/> ??? <br/> 9기~ <br/> ????? <br/> - <br/>|   <img src = "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/kQMuuagu-nSEu5MvmcSPrOI0nAk" width="128px;"/> <br/> [???](https://www.linkedin.com/in/jinho-park-9010) (러너) <br/> ??? <br/> 9기~ <br/> ????? <br/> - <br/> |
+|  | | |
+|---|------|-------|
+|   <img src = "https://media.licdn.com/dms/image/v2/C5603AQHyqyMWYdPxSg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1590165964786?e=1730937600&v=beta&t=XN0ZpXekOHzw47T2DrOesIAYdF1eL-rzM8oqaoX8b20" width="128px;"/> <br/> [박진호](https://www.linkedin.com/in/jinho-park-9010) (빌더) <br/> 현대자동차 <br/> 3기~ <br/> - <br/> |  <img src = "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/kQMuuagu-nSEu5MvmcSPrOI0nAk" width="128px;"/> <br/> [구미진](https://www.linkedin.com/in/jinho-park-9010) (러너) <br/> ??? <br/> 9기~ <br/> ????? <br/>  - <br/> |   <img src = "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/kQMuuagu-nSEu5MvmcSPrOI0nAk" width="128px;"/> <br/> [박동찬](https://www.linkedin.com/in/jinho-park-9010) (러너) <br/> ??? <br/> 9기~ <br/> ????? <br/> - <br/> |
+|   <img src = "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/kQMuuagu-nSEu5MvmcSPrOI0nAk" width="128px;"/> <br/> [손유정](https://www.linkedin.com/in/jinho-park-9010) (러너) <br/> ???<br/> 9기~ <br/> ????? <br/> - <br/> |  <img src = "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/kQMuuagu-nSEu5MvmcSPrOI0nAk" width="128px;"/> <br/> [이정진](https://www.linkedin.com/in/jinho-park-9010) (러너) <br/> ??? <br/> 9기~ <br/> ????? <br/> - <br/>|   <img src = "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/kQMuuagu-nSEu5MvmcSPrOI0nAk" width="128px;"/> <br/> [한예지](https://www.linkedin.com/in/jinho-park-9010) (러너) <br/> ??? <br/> 9기~ <br/> ????? <br/> - <br/> |
 
 ## 프로젝트 목표
 1. 다양한 생성모델에 대한 이해 <br/>
@@ -41,20 +41,20 @@
 
 | 날짜 | 내용 | 발표자 | 
 | ---------- | --------------------------------------------------------------------------- | ----- |
-| 2024/09/10 |  OT                                                                         | 박진호 |
-| 2024/09/24 |  (Part 1) Lecture 2                                                         | 박진호 | 
-| 2024/10/01 |  (Part 1).                                                                  | ㅇㅇㅇ | 
-| 2024/10/08 |  (Part 1).                                                                  | ㅇㅇㅇ | 
-| 2024/10/15 |  (Part 1).                                                                  | ㅇㅇㅇ | 
-| 2024/10/22 |  (Part 1).                                                                  | ㅇㅇㅇ | 
-| 2024/10/29 |  (Part 1).                                                                  | ㅇㅇㅇ | 
-| 2024/11/05 |  (Part 1).                                                                  | ㅇㅇㅇ | 
-| 2024/11/12 |  (Part 1).                                                                  | ㅇㅇㅇ | 
-| 2024/11/19 |  Part 5.                                                                    | ㅇㅇㅇ | 
+| 2024/09/12 |  OT                                                                         | 박진호 |
+| 2024/09/24 |  (Part 1) Lecture 2. Background                                             | 박진호 | 
+| 2024/10/08 |  (Part 1) Lecture 3. Autoregressive Models                                  | 이정진 | 
+| 2024/10/15 |  (Part 1) Lecture 4. Maximum Likelihood Learning                            | 손유정 | 
+| 2024/10/22 |  (Part 1).                                                                  | 박동찬 | 
+| 2024/10/29 |  (Part 1).                                                                  | 한예지 | 
+| 2024/11/05 |  (Part 1).                                                                  | 구미진 | 
+| 2024/11/12 |  (Part 1).                                                                  | 박진호 | 
+| 2024/11/19 |  (Part 1).                                                                  | ㅇㅇㅇ | 
 | 2024/11/26 |  Part 5.                                                                    | ㅇㅇㅇ | 
 | 2024/12/03 |  Part 5.                                                                    | ㅇㅇㅇ | 
 | 2024/12/10 |  Part 5.                                                                    | ㅇㅇㅇ | 
 | 2024/12/17 |  Part 5.                                                                    | ㅇㅇㅇ | 
+| 2024/12/24 |  Part 5.                                                                    | ㅇㅇㅇ | 
 | 2025/01/?? |  Part 5.                                                                    | ㅇㅇㅇ | 
 
 
