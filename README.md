@@ -45,10 +45,10 @@
 | 2024/09/24 |  (Part 1) Lecture 2. Background                                             | 박진호 | 
 | 2024/10/08 |  (Part 1) Lecture 3. Autoregressive Models                                  | 이정진 | 
 | 2024/10/15 |  (Part 1) Lecture 4. Maximum Likelihood Learning                            | 손유정 | 
-| 2024/10/22 |  (Part 1).                                                                  | 박동찬 | 
-| 2024/10/29 |  (Part 1).                                                                  | 한예지 | 
-| 2024/11/05 |  (Part 1).                                                                  | 구미진 | 
-| 2024/11/12 |  (Part 1).                                                                  | 박진호 | 
+| 2024/10/22 |  (Part 1) Lecture 5 - VAEs                                                  | 박동찬 | 
+| 2024/10/29 |  (Part 1) Lecture 6 - VAEs                                                  | 구미진 | 
+| 2024/11/05 |  (Part 1) Lecture 7 - Normalizing Flows                                     | 박진호 | 
+| 2024/11/12 |  (Part 1).                                                                  | ㅇㅇㅇ | 
 | 2024/11/19 |  (Part 1).                                                                  | ㅇㅇㅇ | 
 | 2024/11/26 |  Part 5.                                                                    | ㅇㅇㅇ | 
 | 2024/12/03 |  Part 5.                                                                    | ㅇㅇㅇ | 
